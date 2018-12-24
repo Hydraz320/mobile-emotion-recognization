@@ -1,13 +1,13 @@
 {
-  "main.css": "/mobile-emotion-recognization/static/css/main.65d3bbd9.chunk.css",
-  "main.js": "/mobile-emotion-recognization/static/js/main.f2447e8d.chunk.js",
-  "main.js.map": "/mobile-emotion-recognization/static/js/main.f2447e8d.chunk.js.map",
-  "static/js/1.4372dfbd.chunk.js": "/mobile-emotion-recognization/static/js/1.4372dfbd.chunk.js",
-  "static/js/1.4372dfbd.chunk.js.map": "/mobile-emotion-recognization/static/js/1.4372dfbd.chunk.js.map",
-  "runtime~main.js": "/mobile-emotion-recognization/static/js/runtime~main.ac2aa72d.js",
-  "runtime~main.js.map": "/mobile-emotion-recognization/static/js/runtime~main.ac2aa72d.js.map",
-  "static/css/main.65d3bbd9.chunk.css.map": "/mobile-emotion-recognization/static/css/main.65d3bbd9.chunk.css.map",
-  "index.html": "/mobile-emotion-recognization/index.html",
-  "precache-manifest.e1e27e8f71bb3a706e2c1a879825e674.js": "/mobile-emotion-recognization/precache-manifest.e1e27e8f71bb3a706e2c1a879825e674.js",
-  "service-worker.js": "/mobile-emotion-recognization/service-worker.js"
+  "main.css": "./static/css/main.65d3bbd9.chunk.css",
+  "main.js": "./static/js/main.f2501607.chunk.js",
+  "main.js.map": "./static/js/main.f2501607.chunk.js.map",
+  "static/js/1.7356278b.chunk.js": "./static/js/1.7356278b.chunk.js",
+  "static/js/1.7356278b.chunk.js.map": "./static/js/1.7356278b.chunk.js.map",
+  "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
+  "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
+  "static/css/main.65d3bbd9.chunk.css.map": "./static/css/main.65d3bbd9.chunk.css.map",
+  "index.html": "./index.html",
+  "precache-manifest.0c381f78c622de9eeb83a1e08788d00c.js": "./precache-manifest.0c381f78c622de9eeb83a1e08788d00c.js",
+  "service-worker.js": "./service-worker.js"
 }
